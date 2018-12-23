@@ -18,6 +18,7 @@ class App extends Component {
       storageBucket: "manager-f9161.appspot.com",
       messagingSenderId: "239351781482"
     };
+    
     firebase.initializeApp(config);
   }
   render(){
