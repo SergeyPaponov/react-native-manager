@@ -6,7 +6,7 @@ import EmployeeCreate from './components/EmployeeCreate';
 
 const RouterComponent = () => {
   return(
-    <Router sceneStyle={{ paddingTop: 65 }}>
+    <Router sceneStyle={{ paddingTop: 50 }}>
       <Scene key="root" hideNavBar>
         <Scene key="auth">
           <Scene
