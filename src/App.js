@@ -16,7 +16,7 @@ class App extends Component {
       databaseURL: "https://manager-XXXXX.firebaseio.com",
       projectId: "manager-XXXXX",
       storageBucket: "manager-XXXXX.appspot.com",
-      messagingSenderId: "23XXXXXX1482"
+      messagingSenderId: "23XXXXXX1483"
     };
     firebase.initializeApp(config);
   }
